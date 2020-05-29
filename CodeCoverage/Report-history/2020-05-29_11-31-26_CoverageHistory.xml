@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2020-05-29_11-31-26" tag="">
+  <assembly name="ScriptsAssemblyDefinition">
+    <class name="Aritmetica" coveredlines="6" coverablelines="6" totallines="14" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Tests">
+    <class name="TestOperaciones" coveredlines="8" coverablelines="9" totallines="39" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>
